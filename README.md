@@ -3,6 +3,7 @@
 - 🐍 I'm currently working with Python
 - 🔭 I'm also like to program microcontrollers
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunodesouzabezerra/)
+- ⚡ Fun fact: I don't like Java
 
 <!--
 **Kmiokande/Kmiokande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
