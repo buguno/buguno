@@ -1,6 +1,7 @@
 # 🤖 Hello friend
 
 - 🐍 I'm currently working with Python
+- 🔭 I'm also like to program microcontrollers
 
 <!--
 **Kmiokande/Kmiokande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
