@@ -1,6 +1,6 @@
 # 🤖 Hello friend
 
-<img align="center" height="300" src="https://media1.tenor.com/images/009bced0eb119f85f0cbf13cff05c9c5/tenor.gif"/>
+<img align="center" height="200" src="https://media1.tenor.com/images/009bced0eb119f85f0cbf13cff05c9c5/tenor.gif"/>
 
 
 - 🐍 I'm currently working with Python
