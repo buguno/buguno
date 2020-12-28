@@ -1,10 +1,9 @@
 # 🤖 Hello friend
 
-<img align="center" height="200" src="https://media1.tenor.com/images/009bced0eb119f85f0cbf13cff05c9c5/tenor.gif"/>
-
+<img align="right" height="300" src="https://media.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif"/>
 
 - 🐍 I'm currently working with Python
-- 🌱 I’m currently learning Wi-Fi Hacking
+- 🌱 I’m currently learning Wi-Fi Hacking and Go
 - 🔭 I'm also like to program microcontrollers
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunodesouzabezerra/)
 - 😄 Pronouns: he/his
