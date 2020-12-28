@@ -1,6 +1,6 @@
 # 🤖 Hello friend
 
-<img align="right" height="300" src="https://media.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif"/>
+<img align="right" width="45%" src="https://media.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif"/>
 
 - 🐍 I'm currently working with Python
 - 🌱 I’m currently learning Wi-Fi Hacking and Go
