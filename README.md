@@ -7,6 +7,22 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I don't like Java
 
+---
+
+<center>
+    <table>
+        <tr>
+            <td>
+                <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmiokande&layout=compact&show_icons=true&theme=dracula" />
+            </td>
+            <td>
+                <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Kmiokande&show_icons=true&theme=dracula" />
+            </td>
+        </tr>
+    </table>
+</center>  
+
+---
 
 <!--
 **Kmiokande/Kmiokande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
