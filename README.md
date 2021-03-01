@@ -27,7 +27,7 @@
 ## Github Points: :octocat:🏆️
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kmiokande&theme=dracula"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Kmiokande&theme=dracula&margin-w=7&hide_border=true" alt="Kmiokande points"/>
 </p>
 
 <!--
