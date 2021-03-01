@@ -13,7 +13,7 @@
     <table>
         <tr>
             <td>
-                <img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=Kmiokande&show_icons=true&theme=dracula" />
+                <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Kmiokande&show_icons=true&theme=dracula" />
             </td>
             <td>
                 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmiokande&layout=compact&show_icons=true&theme=dracula" />
@@ -23,6 +23,12 @@
 </center>  
 
 ---
+
+## Github Points: :octocat:🏆️
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kmiokande&theme=dracula"/>
+</p>
 
 <!--
 **Kmiokande/Kmiokande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
