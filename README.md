@@ -1,7 +1,7 @@
 # 🤖 Hello friend
 
 - 🐍 I'm currently working with Python
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Flask
 - 🔭 I'm also like to program microcontrollers
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunodesouzabezerra/)
 - 😄 Pronouns: he/his
