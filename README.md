@@ -12,6 +12,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmiokande&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+<center>
+    <div>
+        <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Kmiokande&show_icons=true&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmiokande&layout=compact&show_icons=true&theme=dracula" />
+    </div>
+</center>
 
 ---
 
