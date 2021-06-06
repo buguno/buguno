@@ -7,34 +7,10 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I don't like Java
 
-
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmiokande&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmiokande&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<center>
-    <div>
-        <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Kmiokande&show_icons=true&theme=dracula" />
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmiokande&layout=compact&show_icons=true&theme=dracula" />
-    </div>
-</center>
-
----
-
-<center>
-    <table>
-        <tr>
-            <td>
-                <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Kmiokande&show_icons=true&theme=dracula" />
-            </td>
-            <td>
-                <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmiokande&layout=compact&show_icons=true&theme=dracula" />
-            </td>
-        </tr>
-    </table>
-</center>  
-
----
+<div>
+    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Kmiokande&show_icons=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmiokande&layout=compact&show_icons=true&theme=dracula" />
+</div>
 
 ## Github Trophies: :octocat:🏆️
 
