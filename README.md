@@ -7,6 +7,12 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I don't like Java
 
+
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmiokande&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmiokande&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 <center>
