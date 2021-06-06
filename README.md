@@ -14,9 +14,7 @@
 
 ## Github Trophies: :octocat:🏆️
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kmiokande&theme=dracula&margin-w=7&hide_border=true" alt="Kmiokande points"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Kmiokande&theme=dracula&margin-w=7&hide_border=true" alt="Kmiokande points"/>
 
 <!--
 **Kmiokande/Kmiokande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
