@@ -12,7 +12,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmiokande&layout=compact&show_icons=true&theme=dracula" />
 </div>
 
-## Github Trophies: :octocat:🏆️
+## 🏆️ Github Trophies
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Kmiokande&column=8&theme=dracula&no-frame=true"/>
 
