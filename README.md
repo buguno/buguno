@@ -8,13 +8,13 @@
 - ⚡ Fun fact: I don't like Java
 
 <div>
-    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Kmiokande&show_icons=true&theme=dracula" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmiokande&layout=compact&show_icons=true&theme=dracula" />
+    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=buguno&show_icons=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buguno&layout=compact&show_icons=true&theme=dracula" />
 </div>
 
 ## 🏆️ Github Trophies
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=Kmiokande&column=8&theme=dracula&no-frame=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=buguno&column=8&theme=dracula&no-frame=true"/>
 
 <!--
 **Kmiokande/Kmiokande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
