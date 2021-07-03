@@ -1,7 +1,7 @@
 # 🤖 Hello friend
 
-- 🐍 I'm currently working with Python
-- 🌱 I’m currently learning TypeScript and React
+- 🐍 I'm currently working with TypeScript and Node
+- 🌱 I’m currently learning Clean Code
 - 🔭 I'm also like to program microcontrollers
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunodesouzabezerra/)
 - 😄 Pronouns: he/his
