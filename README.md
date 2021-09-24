@@ -2,10 +2,9 @@
 
 - 🐍 I'm currently working with TypeScript and Node
 - 🌱 I’m currently learning Clean Code
-- 🔭 I'm also like to program microcontrollers
+- 🔭 I also like to study about hacking
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunodesouzabezerra/)
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I don't like Java
+- 🤡 Fun fact: I don't like Java
 
 <!--
 <div>
