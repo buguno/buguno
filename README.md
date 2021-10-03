@@ -1,7 +1,7 @@
 # 🤖 Hello friend
 
-- 🐍 I'm currently working with TypeScript and Node
-- 🌱 I’m currently learning Clean Code
+- 🐍 I'm currently working with Python, TypeScript and Node
+- 🌱 I’m currently learning Clean Code and DevOps
 - 🔭 I also like to study about hacking
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunodesouzabezerra/)
 - 🤡 Fun fact: I don't like Java
