@@ -2,7 +2,7 @@
 
 - 🐍 I'm currently working with Python
 - 🌱 I’m currently learning Clean Code
-- 🔭 I also like to study about new technologies
+- 🔭 I also like astronomy
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunodesouzabezerra/)
 - 🤡 Fun fact: I don't like Java
 
