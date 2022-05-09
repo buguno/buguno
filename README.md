@@ -1,7 +1,7 @@
 # 🤖 Hello friend
 
 - 🐍 I'm currently working with Python
-- 🌱 I’m currently learning Clean Code
+- 🌱 I’m currently learning Go and DevOps
 - 🔭 I also like astronomy
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunodesouzabezerra/)
 - 🤡 Fun fact: I don't like Java
