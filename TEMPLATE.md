@@ -8,4 +8,4 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunodesouzabezerra/)
 - 🤡 Fun fact: I don't like Rust
 
-**~** [_buguno.github.io_](https://buguno.github.io/)
+**~** [_buguno.dev_](https://buguno.dev)
