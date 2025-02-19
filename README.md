@@ -1,6 +1,6 @@
 # 🤖 Hello friend
 
-Ever since I joined GitHub **7** years ago, I pushed **2377** commits, opened **21** issues, submitted **287** pull requests, did **104** code reviews, received **20** stars across **38** personal projects, and contributed to **8** public repositories.
+Ever since I joined GitHub **7** years ago, I pushed **2200** commits, opened **21** issues, submitted **236** pull requests, did **100** code reviews, received **20** stars across **38** personal projects, and contributed to **6** public repositories.
 
 - 🐍 I'm currently working with Typescript
 - 🌱 I’m currently learning LoraWAN, Docker, Jenkins, Prometheus and Grafana
